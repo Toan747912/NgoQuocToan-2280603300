@@ -1,4 +1,4 @@
-form QuanLySinhVien import QuanLySinhVien
+from QuanLySinhVien import QuanLySinhVien
 qlsv = QuanLySinhVien()
 while (1 == 1):
     print("\n CHƯƠNG TRÌNH QUẢN LÝ SINH VIÊN")

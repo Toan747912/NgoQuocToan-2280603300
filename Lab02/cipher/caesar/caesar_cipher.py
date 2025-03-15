@@ -1,4 +1,4 @@
-from caesar.alphabet import ALPHABET  # Fix import statement
+from cipher.caesar import ALPHABET  # Fix import statement
 
 class CaesarCipher:
     def __init__(self):
